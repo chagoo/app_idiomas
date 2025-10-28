@@ -1,0 +1,73 @@
+# General
+*.log
+logs/
+*.tmp
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+.eslintcache
+
+# Environment files (keep examples)
+.env
+.env.*
+!backend/.env.example
+!frontend/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.python-version
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.coverage*
+coverage.xml
+
+# Python build artifacts
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+sdist/
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+**/.venv/
+**/venv/
+
+# Node / Frontend
+node_modules/
+**/node_modules/
+frontend/dist/
+.vite/
+**/.vite/
+.parcel-cache/
+.turbo/
+.nx/
+
+# Test output
+coverage/
+**/coverage/
+
+# Local tooling
+.npmrc
+.yarnrc
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

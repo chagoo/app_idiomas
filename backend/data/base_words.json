@@ -1,0 +1,19 @@
+[
+  {"id": "basics-hello", "theme": "Basics", "en": "hello", "es": "hola", "image": "👋", "example": "Hello! How are you?"},
+  {"id": "basics-bye", "theme": "Basics", "en": "goodbye", "es": "adios", "image": "👋", "example": "Goodbye! See you later."},
+  {"id": "basics-please", "theme": "Basics", "en": "please", "es": "por favor", "image": "🙏", "example": "Please, take a seat."},
+  {"id": "basics-thanks", "theme": "Basics", "en": "thank you", "es": "gracias", "image": "😊", "example": "Thank you for your help."},
+  {"id": "basics-sorry", "theme": "Basics", "en": "sorry", "es": "lo siento", "image": "😔", "example": "I'm sorry about that."},
+
+  {"id": "food-water", "theme": "Food", "en": "water", "es": "agua", "image": "💧", "example": "Can I have some water?"},
+  {"id": "food-bread", "theme": "Food", "en": "bread", "es": "pan", "image": "🍞", "example": "I bought fresh bread."},
+  {"id": "food-apple", "theme": "Food", "en": "apple", "es": "manzana", "image": "🍎", "example": "This apple is sweet."},
+  {"id": "food-coffee", "theme": "Food", "en": "coffee", "es": "cafe", "image": "☕", "example": "I drink coffee in the morning."},
+  {"id": "food-salt", "theme": "Food", "en": "salt", "es": "sal", "image": "🧂", "example": "Add a pinch of salt."},
+
+  {"id": "travel-hotel", "theme": "Travel", "en": "hotel", "es": "hotel", "image": "🏨", "example": "The hotel is near the station."},
+  {"id": "travel-ticket", "theme": "Travel", "en": "ticket", "es": "boleto", "image": "🎫", "example": "I need a train ticket."},
+  {"id": "travel-airport", "theme": "Travel", "en": "airport", "es": "aeropuerto", "image": "✈️", "example": "The airport is busy today."},
+  {"id": "travel-bus", "theme": "Travel", "en": "bus", "es": "autobus", "image": "🚌", "example": "Take the bus downtown."},
+  {"id": "travel-map", "theme": "Travel", "en": "map", "es": "mapa", "image": "🗺️", "example": "Check the map for directions."}
+]
